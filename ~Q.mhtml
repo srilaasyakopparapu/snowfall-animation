@@ -1,0 +1,120 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: chrome://new-tab-page/
+Subject: 
+Date: Wed, 7 Jul 2021 23:13:02 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--rNTxozC649n0mhVtf5JB3LYb9MiECdQMCFpMHHDNPz----"
+
+
+------MultipartBoundary--rNTxozC649n0mhVtf5JB3LYb9MiECdQMCFpMHHDNPz----
+Content-Type: text/html
+Content-ID: <frame-A7631250B53C29D1027051A0248212E9@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://new-tab-page/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><div class=3D"line-gutter-backdrop"></div><table><tb=
+ody><tr><td colspan=3D"2" class=3D"line-wrap-cell"><form autocomplete=3D"of=
+f"><label class=3D"line-wrap-control">Line wrap<input type=3D"checkbox"></l=
+abel></form></td></tr><tr><td class=3D"line-number" value=3D"1"></td><td cl=
+ass=3D"line-content"><span class=3D"html-doctype">&lt;!doctype html&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"2"></td><td class=3D"li=
+ne-content"><span class=3D"html-tag">&lt;html <span class=3D"html-attribute=
+-name">dir</span>=3D"<span class=3D"html-attribute-value">ltr</span>" <span=
+ class=3D"html-attribute-name">lang</span>=3D"<span class=3D"html-attribute=
+-value">en</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"3"></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;head&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"4"></td><td clas=
+s=3D"line-content">    <span class=3D"html-tag">&lt;meta <span class=3D"htm=
+l-attribute-name">charset</span>=3D"<span class=3D"html-attribute-value">ut=
+f-8</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"5"><=
+/td><td class=3D"line-content">    <span class=3D"html-tag">&lt;title&gt;</=
+span>New Tab<span class=3D"html-tag">&lt;/title&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"6"></td><td class=3D"line-content">    <spa=
+n class=3D"html-tag">&lt;style&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"7"></td><td class=3D"line-content">      body {</td></tr><tr=
+><td class=3D"line-number" value=3D"8"></td><td class=3D"line-content">    =
+    background: #F5E1DA;</td></tr><tr><td class=3D"line-number" value=3D"9"=
+></td><td class=3D"line-content">        margin: 0;</td></tr><tr><td class=
+=3D"line-number" value=3D"10"></td><td class=3D"line-content">      }</td><=
+/tr><tr><td class=3D"line-number" value=3D"11"></td><td class=3D"line-conte=
+nt"><br></td></tr><tr><td class=3D"line-number" value=3D"12"></td><td class=
+=3D"line-content">      #oneGoogleBar {</td></tr><tr><td class=3D"line-numb=
+er" value=3D"13"></td><td class=3D"line-content">        height: 56px;</td>=
+</tr><tr><td class=3D"line-number" value=3D"14"></td><td class=3D"line-cont=
+ent">      }</td></tr><tr><td class=3D"line-number" value=3D"15"></td><td c=
+lass=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"=
+16"></td><td class=3D"line-content">      #backgroundImage {</td></tr><tr><=
+td class=3D"line-number" value=3D"17"></td><td class=3D"line-content">     =
+   border: none;</td></tr><tr><td class=3D"line-number" value=3D"18"></td><=
+td class=3D"line-content">        height: 100%;</td></tr><tr><td class=3D"l=
+ine-number" value=3D"19"></td><td class=3D"line-content">        pointer-ev=
+ents: none;</td></tr><tr><td class=3D"line-number" value=3D"20"></td><td cl=
+ass=3D"line-content">        position: fixed;</td></tr><tr><td class=3D"lin=
+e-number" value=3D"21"></td><td class=3D"line-content">        top: 0;</td>=
+</tr><tr><td class=3D"line-number" value=3D"22"></td><td class=3D"line-cont=
+ent">        visibility: hidden;</td></tr><tr><td class=3D"line-number" val=
+ue=3D"23"></td><td class=3D"line-content">        width: 100%;</td></tr><tr=
+><td class=3D"line-number" value=3D"24"></td><td class=3D"line-content">   =
+   }</td></tr><tr><td class=3D"line-number" value=3D"25"></td><td class=3D"=
+line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"26"></td=
+><td class=3D"line-content">      [show-background-image] #backgroundImage =
+{</td></tr><tr><td class=3D"line-number" value=3D"27"></td><td class=3D"lin=
+e-content">        visibility: visible;</td></tr><tr><td class=3D"line-numb=
+er" value=3D"28"></td><td class=3D"line-content">      }</td></tr><tr><td c=
+lass=3D"line-number" value=3D"29"></td><td class=3D"line-content">    <span=
+ class=3D"html-tag">&lt;/style&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"30"></td><td class=3D"line-content">  <span class=3D"html-ta=
+g">&lt;/head&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"31"=
+></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;body&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"32"></td><td class=3D"=
+line-content">    <span class=3D"html-tag">&lt;div <span class=3D"html-attr=
+ibute-name">id</span>=3D"<span class=3D"html-attribute-value">oneGoogleBar<=
+/span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"33"></td><td class=3D"line-content">   =
+ <span class=3D"html-tag">&lt;iframe <span class=3D"html-attribute-name">id=
+</span>=3D"<span class=3D"html-attribute-value">backgroundImage</span>"</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"34"></td><td class=3D"l=
+ine-content">        <span class=3D"html-attribute-name">src</span>=3D"<a c=
+lass=3D"html-attribute-value html-resource-link" target=3D"_blank" href=3D"=
+chrome-untrusted://new-tab-page/custom_background_image?url=3Dchrome-untrus=
+ted%3A%2F%2Fnew-tab-page%2Fbackground.jpg%3Fts%3D1625699183" rel=3D"norefer=
+rer noopener">chrome-untrusted://new-tab-page/custom_background_image?url=
+=3Dchrome-untrusted%3A%2F%2Fnew-tab-page%2Fbackground.jpg%3Fts%3D1625699183=
+</a>"&gt;</td></tr><tr><td class=3D"line-number" value=3D"35"></td><td clas=
+s=3D"line-content">    <span class=3D"html-tag">&lt;/iframe&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"36"></td><td class=3D"line-cont=
+ent">    <span class=3D"html-tag">&lt;ntp-app&gt;</span><span class=3D"html=
+-tag">&lt;/ntp-app&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"37"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;sc=
+ript <span class=3D"html-attribute-name">type</span>=3D"<span class=3D"html=
+-attribute-value">module</span>" <span class=3D"html-attribute-name">src</s=
+pan>=3D"<a class=3D"html-attribute-value html-resource-link" target=3D"_bla=
+nk" href=3D"chrome://new-tab-page/new_tab_page.js" rel=3D"noreferrer noopen=
+er">new_tab_page.js</a>"&gt;</span><span class=3D"html-tag">&lt;/script&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"38"></td><td class=
+=3D"line-content">    <span class=3D"html-tag">&lt;link <span class=3D"html=
+-attribute-name">rel</span>=3D"<span class=3D"html-attribute-value">stylesh=
+eet</span>" <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"=
+html-attribute-value html-resource-link" target=3D"_blank" href=3D"chrome:/=
+/resources/css/text_defaults_md.css" rel=3D"noreferrer noopener">chrome://r=
+esources/css/text_defaults_md.css</a>"&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"39"></td><td class=3D"line-content">    <span class=
+=3D"html-tag">&lt;link <span class=3D"html-attribute-name">rel</span>=3D"<s=
+pan class=3D"html-attribute-value">stylesheet</span>" <span class=3D"html-a=
+ttribute-name">href</span>=3D"<a class=3D"html-attribute-value html-resourc=
+e-link" target=3D"_blank" href=3D"chrome://new-tab-page/shared_vars.css" re=
+l=3D"noreferrer noopener">shared_vars.css</a>"&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"40"></td><td class=3D"line-content">    <spa=
+n class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">id</span>=
+=3D"<span class=3D"html-attribute-value">oneGoogleBarEndOfBody</span>"&gt;<=
+/span><span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"41"></td><td class=3D"line-content">  <span class=
+=3D"html-tag">&lt;/body&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"42"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/h=
+tml&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"43"></td><td=
+ class=3D"line-content"><span class=3D"html-end-of-file"></span></td></tr><=
+/tbody></table></body></html>
+------MultipartBoundary--rNTxozC649n0mhVtf5JB3LYb9MiECdQMCFpMHHDNPz------
